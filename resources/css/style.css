@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: normal;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    color: gray;
+    font-weight: normal;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    color: lightseagreen;
+}
+
+footer {
+    text-align: right;
+}
+
+.icon {
+    margin-top: 10px;
+}
